@@ -1,0 +1,55 @@
+2026-10-27 23:25:50,466 | INFO     | belfort | Belfort Lead Parser v0.1.0 — запуск
+2026-10-27 23:25:50,467 | INFO     | belfort | Каталог данных: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data
+2026-10-27 23:25:50,467 | INFO     | belfort | Файл базы данных (будет создан на Этапе 2): C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-27 23:25:50,467 | INFO     | belfort | Каталог экспорта: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\exports
+2026-10-27 23:25:50,467 | INFO     | belfort | Этап 1 завершён: структура проекта и логирование готовы. База данных, источники и интерфейс пока не реализованы.
+2026-10-27 23:44:13,028 | INFO     | belfort | Belfort Lead Parser v0.1.0 — запуск
+2026-10-27 23:44:13,029 | INFO     | belfort | Каталог данных: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data
+2026-10-27 23:44:13,029 | INFO     | belfort | Каталог экспорта: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\exports
+2026-10-27 23:44:13,047 | INFO     | database.connection | Применена миграция 001_initial.sql
+2026-10-27 23:44:13,047 | INFO     | belfort | База готова: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-27 23:44:13,048 | INFO     | belfort | Компаний в базе: 0; запусков в истории: 0
+2026-10-27 23:44:13,050 | INFO     | belfort | Этапы 1-2 завершены: каркас, логирование и база данных работают. Скоринг, дедупликация, источники, интерфейс и экспорт пока не реализованы.
+2026-10-27 23:44:33,755 | INFO     | belfort | Belfort Lead Parser v0.1.0 — запуск
+2026-10-27 23:44:33,755 | INFO     | belfort | Каталог данных: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data
+2026-10-27 23:44:33,755 | INFO     | belfort | Каталог экспорта: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\exports
+2026-10-27 23:44:33,758 | INFO     | belfort | База готова: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-27 23:44:33,758 | INFO     | belfort | Компаний в базе: 0; запусков в истории: 0
+2026-10-27 23:44:33,759 | INFO     | belfort | Этапы 1-2 завершены: каркас, логирование и база данных работают. Скоринг, дедупликация, источники, интерфейс и экспорт пока не реализованы.
+2026-10-28 00:17:04,669 | INFO     | belfort | Belfort Lead Parser v0.1.0 — запуск
+2026-10-28 00:17:04,669 | INFO     | belfort | Каталог данных: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data
+2026-10-28 00:17:04,669 | INFO     | belfort | Каталог экспорта: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\exports
+2026-10-28 00:17:04,675 | INFO     | database.connection | Применена миграция 002_website_url.sql
+2026-10-28 00:17:04,675 | INFO     | belfort | База готова: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-28 00:17:04,675 | INFO     | belfort | Компаний в базе: 0; запусков в истории: 0
+2026-10-28 00:17:04,676 | INFO     | belfort | Этапы 1-2 завершены: каркас, логирование и база данных работают. Скоринг, дедупликация, источники, интерфейс и экспорт пока не реализованы.
+2026-10-28 00:40:34,739 | INFO     | database.connection | Применена миграция 001_initial.sql
+2026-10-28 00:40:34,740 | INFO     | database.connection | Применена миграция 002_website_url.sql
+2026-10-28 00:42:54,148 | INFO     | belfort | Belfort Lead Parser v0.1.0 — запуск
+2026-10-28 00:42:54,148 | INFO     | belfort | Каталог данных: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data
+2026-10-28 00:42:54,148 | INFO     | belfort | Каталог экспорта: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\exports
+2026-10-28 00:42:54,151 | INFO     | belfort | База готова: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-28 00:42:54,151 | INFO     | belfort | Компаний в базе: 0; запусков в истории: 0
+2026-10-28 00:42:54,152 | INFO     | belfort | Этапы 1-2 завершены: каркас, логирование и база данных работают. Скоринг, дедупликация, источники, интерфейс и экспорт пока не реализованы.
+2026-10-28 00:48:26,498 | INFO     | belfort | Belfort Lead Parser v0.1.0
+2026-10-28 00:48:26,498 | INFO     | belfort | База: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-28 00:48:26,498 | INFO     | belfort | Компаний: 0; запусков: 0
+2026-10-28 00:52:42,168 | INFO     | belfort | Belfort Lead Parser v0.1.0
+2026-10-28 00:52:42,168 | INFO     | belfort | База: C:\Users\totoh\Desktop\BelfortSearch\belfort_lead_parser\data\belfort.db
+2026-10-28 00:52:42,168 | INFO     | belfort | Компаний: 0; запусков: 0
+2026-10-28 01:15:58,033 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 01:15:59,108 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 01:16:00,335 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 01:16:01,261 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 01:16:02,253 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 01:16:03,262 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:52:07,589 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:52:08,640 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:52:09,626 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:52:10,632 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:52:11,595 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:56:34,904 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:56:35,956 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:56:36,929 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:56:37,941 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
+2026-10-28 23:56:38,919 | INFO     | httpx | HTTP Request: POST https://html.duckduckgo.com/html/ "HTTP/1.1 202 Accepted"
